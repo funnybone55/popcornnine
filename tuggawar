@@ -1,0 +1,6 @@
+  <h1>Tug-of-war</h1>
+  <p>
+    Each player taps either the left or right arrow
+key to move the red dot toward them. The winner is the
+player who has it on their side of the line after 10
+seconds.
